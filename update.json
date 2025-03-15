@@ -1,8 +1,8 @@
 {
     "arz": {
-        "app_status": false,
+        "app_status": true,
         "app_beta_status": false,
-        "game_version": "1.0.5-fix",
+        "game_version": "1.0.5-hotfix",
         "game_url": "https://whoisthisidkhaha.github.io/game/arz.apk",
         "samp_list_url": "https://whoisthisidkhaha.github.io/data/samp_list.json",
         "full_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
