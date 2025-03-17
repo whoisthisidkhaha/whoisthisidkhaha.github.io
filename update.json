@@ -7,5 +7,14 @@
         "samp_list_url": "https://whoisthisidkhaha.github.io/data/samp_list.json",
         "full_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
         "lite_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json"
+    },
+    "idk": {
+        "app_status": true,
+        "app_beta_status": false,
+        "game_version": "1.0.0",
+        "game_url": "https://whoisthisidkhaha.github.io/game/app-game-release.apk",
+        "samp_list_url": "https://whoisthisidkhaha.github.io/data/samp_list.json",
+        "full_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
+        "lite_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json"
     }
 }
